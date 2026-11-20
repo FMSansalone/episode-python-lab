@@ -80,3 +80,6 @@ if __name__ == "__main__":
 # - Zaino - €30.00
 # Totale: €32.50
 # Articoli nel carello unito: 3
+# Carrello:
+# - Carrello - €1.00
+# Totale: €1.00 
