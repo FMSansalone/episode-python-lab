@@ -67,3 +67,7 @@ print(cc1)
 # Fusione conti
 conto_fuso = cc1 + cc2
 print(conto_fuso)
+
+# Conto di Luca - Saldo: 1148.50$
+# Conto di Luca & Giulia - Saldo: 1648.50
+
